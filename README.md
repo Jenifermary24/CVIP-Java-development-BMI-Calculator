@@ -1,1 +1,1 @@
-# CVIP-Java-development-BMI-Calculator
+# CVIP-Java-development
